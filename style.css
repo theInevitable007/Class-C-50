@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+}
+*{
+    border-style: dotted;
+}
+
+.Header{
+    background-color: aqua;
+    display : flex;
+    justify-content: space-between;
+}
+
+.Grid{
+    display : flex;
+    flex-wrap : wrap;
+
+    justify-content: space-evenly;
+}
+h2,p{
+    text-align: center;
+}
